@@ -1,0 +1,16 @@
+﻿thinkgear_testapp.obj : error LNK2019: TG_GetVersionGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_GetNewConnectionIdGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_SetStreamLogGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_SetDataLogGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_ConnectGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_ReadPacketsGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_GetValueStatusGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_GetValueGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: MWM15_getFilterTypeGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: MWM15_setFilterTypeGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_EnableAutoReadGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_DisconnectGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear_testapp.obj : error LNK2019: TG_FreeConnectionGetEEG 함수에서 참조되는 확인할 수 없는 외부 기호
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: WinMain"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+thinkgear.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\DS\source\repos\thinkgear_testapp\x64\Debug\thinkgear_testapp.exe : fatal error LNK1120: 14개의 확인할 수 없는 외부 참조입니다.
